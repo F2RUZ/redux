@@ -105,3 +105,4 @@ store.subscribe(() => {
   heading.textContent = store.getState().name;
   title.textContent = store.getState().counter;
 });
+salom hammaga
